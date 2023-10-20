@@ -16,7 +16,7 @@ package main
 import (
   "log"
 
-  "github.com/Rhymond/go-money"
+  "github.com/loneoleg/go-money"
 )
 
 func main() {
