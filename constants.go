@@ -175,4 +175,5 @@ const (
 	ZMW = "ZMW"
 	ZWD = "ZWD"
 	ZWL = "ZWL"
+	USDT = "USDT"
 )
